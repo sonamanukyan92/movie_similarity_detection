@@ -1,2 +1,2 @@
 # movie_similarity_detection
-Find Movie Similarity from Plot Summaries
+Find Movie Similarity from Plot Summaries. This analysis has been done using the Datacamp platform.
